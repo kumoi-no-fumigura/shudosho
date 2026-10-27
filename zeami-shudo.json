@@ -6,7 +6,12 @@
  "yomi": "しゅうどうしょ",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論",
+  "era": "永享2年（1430）",
+  "author": "世阿弥",
+  "desc": "座の役者たちが心得るべきことを説いた能楽論。"
+ },
  "editions": [
   {
    "pid": "859394",
